@@ -28,7 +28,6 @@ Gem::Specification.new do |s|
   # These go in bin by convention. In our case, we have none.
   # s.executables   = `git ls-files -- bin/*`.split("\n").map{ |f| File.basename(f) }
   s.executables = []
-  s.default_executable = ''
 
   s.require_paths = ["lib"]
 
